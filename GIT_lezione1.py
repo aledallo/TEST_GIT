@@ -9,3 +9,6 @@
 print('ciao')
 print('ale')
 print('dallo')
+
+print('1')
+print('2')
