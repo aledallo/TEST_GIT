@@ -12,3 +12,5 @@ print('dallo')
 
 print('1')
 print('2')
+print('SEEEE')
+#premendo l'orologio in alto a dx vedo le varie versioni
