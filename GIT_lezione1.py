@@ -15,6 +15,4 @@ print('2')
 print('SEEEE')
 #premendo l'orologio in alto a dx vedo le varie versioni
 
-print('ciao pirla......')
-
-#se in due stiamo modificando il problema contemporaneamente git se ne accorge
+print('ciao pirla')
