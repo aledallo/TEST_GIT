@@ -15,4 +15,4 @@ print('2')
 print('SEEEE')
 #premendo l'orologio in alto a dx vedo le varie versioni
 
-print('ciao pirla.')
+print('ciao pirla..')
